@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Slot Machine</string>
+    <string name="show_apple">Show that APPLE</string>
+    <string name="draw">DRAW</string>
+</resources>
