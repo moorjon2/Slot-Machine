@@ -2,4 +2,8 @@
     <string name="app_name">Slot Machine</string>
     <string name="show_apple">Show that APPLE</string>
     <string name="draw">DRAW</string>
+    <string name="welcome">Welcome to Lucky Apple Slot Machine</string>
+    <string name="start">START GAME</string>
+    <string name="press_draw">Press Draw</string>
+    <string name="thank_you">Thanks for Playing</string>
 </resources>
